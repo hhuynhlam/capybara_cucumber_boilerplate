@@ -1,0 +1,1 @@
+default: BROWSER=chrome --format pretty

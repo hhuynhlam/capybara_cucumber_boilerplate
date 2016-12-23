@@ -1,0 +1,12 @@
+AllCops:
+  Exclude:
+    - 'bin/*'
+
+Style/Documentation:
+  Enabled: false
+
+Style/SignalException:
+  EnforcedStyle: only_raise
+
+Metrics/LineLength:
+  Max: 100
